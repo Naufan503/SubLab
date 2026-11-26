@@ -1,5 +1,0 @@
-.gradle/
-build/
-app/build/
-app/.cxx/
-app/src/main/cpp/whisper.cpp/
